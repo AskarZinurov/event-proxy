@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+**CI**
+
+[![Build Status](https://semaphoreci.com/api/v1/AskarZinurov/event-proxy/branches/master/badge.svg)](https://semaphoreci.com/AskarZinurov/event-proxy)
