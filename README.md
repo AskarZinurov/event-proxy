@@ -10,3 +10,4 @@ Environment:
 **CI**
 
 [![Build Status](https://semaphoreci.com/api/v1/AskarZinurov/event-proxy/branches/master/badge.svg)](https://semaphoreci.com/AskarZinurov/event-proxy)
+[![Code Climate](https://codeclimate.com/github/AskarZinurov/event-proxy/badges/gpa.svg)](https://codeclimate.com/github/AskarZinurov/event-proxy)
