@@ -6,14 +6,14 @@ engines:
     enabled: true
   csslint:
     enabled: true
+  coffeelint:
+    enabled: true
   duplication:
     enabled: true
     config:
       languages:
       - ruby
       - javascript
-      - python
-      - php
   eslint:
     enabled: true
   fixme:
@@ -28,13 +28,10 @@ ratings:
   - "**.rb"
   - "**.rhtml"
   - "**.slim"
+  - "**.coffee"
   - "**.css"
-  - "**.inc"
   - "**.js"
   - "**.jsx"
-  - "**.module"
-  - "**.php"
-  - "**.py"
 exclude_paths:
 - config/
 - db/
